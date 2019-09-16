@@ -1,11 +1,12 @@
 h1 {
-    color: #111;
+    color: burlywood;
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
+    font-size: 100px;
     font-weight: bold;
     letter-spacing: -1px;
     line-height: 1;
     text-align: center;
+    background-color: green
 }
 
 p {
