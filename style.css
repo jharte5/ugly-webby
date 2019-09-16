@@ -1,12 +1,12 @@
 h1 {
-    color: burlywood;
+    color: lightsteelblue;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 100px;
     font-weight: bold;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 5;
     text-align: center;
-    background-color: green
+    background-color: skyblue
 }
 
 p {
