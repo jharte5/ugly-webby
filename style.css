@@ -1,33 +1,37 @@
 h1 {
-    color: lightsteelblue;
+    color: skyblue;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 100px;
     font-weight: bold;
     letter-spacing: -1px;
     line-height: 5;
     text-align: center;
-    background-color: skyblue
+    background-color: lightsalmon
 }
 
 p {
-    color: #685206;
+    color: skyblue;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 14px;
     line-height: 24px;
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
+    background-color: deeppink
 }
 
 textarea {
     margin: 20px;
     width: 75px;
     height: 150px;
+    background-color: darkslateblue
 }
 
 ul, ol {
     margin: 20px;
     padding: 0;
+    color: aquamarine;
+    background-color: black 
 }
 
 li {
