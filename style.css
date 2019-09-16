@@ -21,7 +21,7 @@ p {
 
 textarea {
     margin: 20px;
-    width: 150px;
+    width: 75px;
     height: 150px;
 }
 
@@ -48,6 +48,6 @@ form {
 }
     
 input, textarea {
-    padding:5px;
-    margin:5px
+    padding:10px;
+    margin:10px
 }
